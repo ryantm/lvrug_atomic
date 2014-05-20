@@ -3,3 +3,4 @@ http://izumi.plan99.net/blog/index.php/2008/03/26/making-pstore-reaaaally-fast/
 http://apidock.com/rails/File/atomic_write/class
 https://github.com/rails/rails/blob/master/activesupport/lib/active_support/core_ext/file/atomic.rb
 http://blog.douglasfshearer.com/post/17547062422/threadsafe-file-consistency-in-ruby
+http://rcrowley.org/2010/01/06/things-unix-can-do-atomically.html
