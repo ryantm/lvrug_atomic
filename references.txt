@@ -6,3 +6,4 @@ http://blog.douglasfshearer.com/post/17547062422/threadsafe-file-consistency-in-
 http://rcrowley.org/2010/01/06/things-unix-can-do-atomically.html
 http://pages.cs.wisc.edu/~eli/537/lectures/journaling-ppt.pdf
 http://www.onjava.com/pub/a/onjava/2001/11/07/atomic.html
+http://www.sqlite.org/atomiccommit.html
