@@ -8,3 +8,4 @@ http://pages.cs.wisc.edu/~eli/537/lectures/journaling-ppt.pdf
 http://www.onjava.com/pub/a/onjava/2001/11/07/atomic.html
 http://www.sqlite.org/atomiccommit.html
 http://www.sqlite.org/wal.html
+http://cr.yp.to/proto/maildir.html
