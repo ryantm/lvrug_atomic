@@ -1,4 +1,4 @@
-Atomic File Writes
+Writing Files
 ==================
 
 This is the repository for a talk @ryantm gave at @LVRUG. There is some Ruby code I experimented with during the course of developing the slides. There are also some [references](references.txt) that helped me learn this material.
